@@ -3,3 +3,4 @@ Branch baru ini hanya untuk latihan github
 Menambah isi konten dari branch baru file wpu-branch-baru1.txt
 Membuat fungsi struktur data dasar
 branch ini adalah branch pertama dari main branch
+Menambahkan detail konten dari fitur2
