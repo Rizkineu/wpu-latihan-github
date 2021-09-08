@@ -1,0 +1,4 @@
+Ini adalah isi dari file wpu-branch-baru1.txt untuk latihan github di babastudio program kartu prakerja
+Branch baru ini hanya untuk latihan github
+Menambah isi konten dari branch baru file wpu-branch-baru1.txt
+branch ini adalah branch pertama dari main branch
