@@ -2,4 +2,4 @@ WPU LATIHAN GITHUB
 - Membuat akun github dan menginstal gitbash
 - Latihan membuat Repository
 - Mengupload ke github
-- menambahkan konten dari wpu-latihan-github.txt
+- Mengubah kembali konten dari wpu-latihan-github.txt
